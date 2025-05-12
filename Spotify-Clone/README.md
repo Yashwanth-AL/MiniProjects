@@ -1,4 +1,4 @@
-# 🎵 [Spotify Clone Using React](https://spotifyclone-lac.vercel.app/)
+# 🎵 [Spotify-Clone](https://spotifyclone-lac.vercel.app/)
 
 A visually polished and fully responsive **Spotify Web UI clone** built with React. This project emulates the core design and functionality of Spotify’s web player, featuring modern UI elements, music playback capabilities, and smooth navigation — all wrapped in a clean, dark-themed aesthetic.
 
